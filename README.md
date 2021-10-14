@@ -7,7 +7,7 @@
   <img align="left" alt="Rakesh Gombi Hackerrank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
 <a href="https://www.instagram.com/_.__no.one_.__/">
-  <img align="left" alt="Rakesh Gombi's instagram" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="left" alt="Rakesh Gombi's instagram" width="22px" background="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <a href="https://m.facebook.com/people/Rakesh-Gombi/100007943115024/">
   <img align="left" alt="Rakesh Gombi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
