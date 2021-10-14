@@ -14,7 +14,7 @@
 </a>
 &nbsp; -->
 
-- 👋 Hi, I’m @Rakeshgombi
+- 👋 Hi, I’m Rakeshgombi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on any Full stack Web Development Projects
