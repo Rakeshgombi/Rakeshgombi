@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Rakesh Gombi
 
 <a href="https://www.linkedin.com/in/rakesh-gombi-8b8412170/">
-  <img align="left" alt="Rakesh Gombi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rakesh Gombi's LinkdeIN" width="22px" background-color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/rakeshgombi18">
   <img align="left" alt="Rakesh Gombi Hackerrank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
