@@ -22,4 +22,4 @@
 
 ![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshgombi&&show_icons=true&title_color=00FF00&icon_color=00b3ff&text_color=daf7dc&bg_color=191919)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgombi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgombi&layout=compact)
