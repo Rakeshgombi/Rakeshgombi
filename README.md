@@ -21,3 +21,5 @@
 - 📫 How to reach me rakeshgombi.ec19@rvce.edu.in
 
 ![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshgombi&&show_icons=true&title_color=00FF00&icon_color=00b3ff&text_color=daf7dc&bg_color=191919)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgombi&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
