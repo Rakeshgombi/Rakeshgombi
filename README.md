@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Rakesh Gombi
 
-<a href="https://www.linkedin.com/in/rakesh-gombi-8b8412170/">
+<!-- <a href="https://www.linkedin.com/in/rakesh-gombi-8b8412170/">
   <img align="left" alt="Rakesh Gombi Hackerrank profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/rakeshgombi18">
@@ -12,7 +12,7 @@
 <a href="https://m.facebook.com/people/Rakesh-Gombi/100007943115024/">
   <img align="left" alt="Rakesh Gombi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-&nbsp;
+&nbsp; -->
 
 - 👋 Hi, I’m @Rakeshgombi
 - 👀 I’m interested in Web Development
@@ -20,6 +20,6 @@
 - 💞️ I’m looking to collaborate on any Full stack Web Development Projects
 - 📫 How to reach me rakeshgombi.ec19@rvce.edu.in
 
-![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshgombi&&show_icons=true&title_color=00FF00&icon_color=00b3ff&text_color=daf7dc&bg_color=191919)
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshgombi&show_icons=true&title_color=0299da&icon_color=ff5e00&text_color=2ee300&bg_color=fff0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgombi&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshgombi&langs_count=8&layout=compact&text_color=2ee300&bg_color=fff0)
