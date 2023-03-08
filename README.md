@@ -31,7 +31,19 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="python" ="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" height="40"/> 
+  </a> 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg" alt="github" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="40" height="40"/>
   </a>
@@ -40,6 +52,9 @@
   </a> 
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/120px-Next.js_Logotype_Light_Background.svg.png" alt="css3" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
@@ -50,18 +65,9 @@
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Program" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" height="40"/> 
-  </a> 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/4a90e2/git.png" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg" alt="github" width="40" height="40"/> 
-  </a> 
 </p>
 
 ![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=Rakeshgombi&show_icons=true&title_color=0299da&icon_color=ff5e00&text_color=2ee300&bg_color=fff0)
