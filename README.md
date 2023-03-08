@@ -7,10 +7,10 @@
 
 
 
-- 👀 I’m interested in **Web Development**
-- 🌱 I’m currently learning **MERN Stack**
+- 👀 I’m interested in **Full Stack Web Development**
+- 🌱 I’m currently learning **Next JS**
 - 💞️ I’m looking to collaborate on any **Full stack Web Development Projects**
-- 📫 How to reach me **rakeshgombi.ec19@rvce.edu.in**
+- 📫 How to reach me **rakeshgombi18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/rakesh-gombi-8b8412170/">
