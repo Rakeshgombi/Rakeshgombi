@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Gombi</h1>
-<h3 align="center">Associate Software Developer</h3>
+<h3 align="center">A UG student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakeshgombi&label=Profile%20views&color=0e75b6&style=flat" alt="Rakeshgombi" /> </p>
 
@@ -36,7 +36,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="python" ="40"/> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" height="40"/> 
@@ -52,9 +52,6 @@
   </a> 
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Next.js_Logotype_Light_Background.svg/120px-Next.js_Logotype_Light_Background.svg.png" alt="css3" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
