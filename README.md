@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Rakesh Gombi</h1>
-<h3 align="center">A UG student from India</h3>
+<h3 align="center">Working as a Full stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakeshgombi&label=Profile%20views&color=0e75b6&style=flat" alt="Rakeshgombi" /> </p>
-
-
 
 
 - 👀 I’m interested in **Full Stack Web Development**
@@ -25,7 +22,6 @@
 <a href="https://m.facebook.com/people/Rakesh-Gombi/100007943115024/">
   <img align="left" alt="Rakesh Gombi's Facebook" width="40" height="40" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
 </a>
-
 
 <br/>
 <br/>
