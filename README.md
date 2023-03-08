@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Gombi</h1>
-<h3 align="center">A UG student from India</h3>
+<h3 align="center">Associate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rakeshgombi&label=Profile%20views&color=0e75b6&style=flat" alt="Rakeshgombi" /> </p>
 
