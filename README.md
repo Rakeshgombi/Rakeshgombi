@@ -50,7 +50,7 @@
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascript" width="40" height="40"/>
   </a> 
-  <a href="https://www.w3schools.com/js/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/640px-Nextjs-logo.svg.png" alt="NextJS" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank">
